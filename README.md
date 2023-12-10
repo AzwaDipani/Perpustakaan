@@ -18,7 +18,8 @@ Mata Kuliah : Rekayasa Perangkat Lunak
 ![Screenshot (221)](https://github.com/AzwaDipani/pustaka-booking/assets/115677539/aab32628-82ed-4b1b-a0a3-70e23e4a8702)
 
 > 2. Tampilan halaman `user`
-![Screenshot (222)](https://github.com/AzwaDipani/pustaka-booking/assets/115677539/37fcaba4-2946-4517-bc64-9549935d5782)
+![Screenshot (225)](https://github.com/AzwaDipani/pustaka-booking/assets/115677539/d3fcca3b-b61a-4154-8374-6af11b90c3fb)
+
 
 > 2. Tampilan halaman `home`
 ![Screenshot (223)](https://github.com/AzwaDipani/pustaka-booking/assets/115677539/145b4234-be80-4d0e-a0db-63f3a0d63c34)
