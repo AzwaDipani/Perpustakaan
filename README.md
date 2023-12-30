@@ -10,14 +10,22 @@ Mata Kuliah : Rekayasa Perangkat Lunak
 
 ## TAMPILAN WEBSITE ##
 Tampilan Admin :
-https://github.com/AzwaDipani/Perpustakaan/assets/115677539/5ddfcf21-ceab-4bfc-9995-0708ebd274a0
+
+
+https://github.com/AzwaDipani/Perpustakaan/assets/115677539/3b66a4e5-e2a3-4e51-813f-472a2c12a5d4
+
+
 
 
 
 
 
 Tampilan User:
-https://github.com/AzwaDipani/Perpustakaan/assets/115677539/872a25bd-531e-4857-bc74-4cc278b5b807
+
+
+https://github.com/AzwaDipani/Perpustakaan/assets/115677539/ee862d5a-dac6-46bf-9a52-e9b2dc70d5ec
+
+
 
 
 
